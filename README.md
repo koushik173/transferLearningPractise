@@ -1,0 +1,2 @@
+# transferLearningPractise
+Another example of transfer learning is using a pre-trained image recognition model, like a convolutional neural network (CNN), to improve the accuracy of a specific image classification task. The pre-trained model has already learned features and patterns from a large dataset, and fine-tuning it on a smaller dataset for a specific task can significantly enhance its performance in recognizing specific objects or attributes in images.
